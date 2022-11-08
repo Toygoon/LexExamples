@@ -1,0 +1,1 @@
+mkdir -p ${c.cpp.set.build.path} && make -C ${c.cpp.set.src.path} && ${c.cpp.set.build.path}/${c.cpp.set.main.name} < ${c.cpp.set.src.path}/main.c
