@@ -4,5 +4,4 @@ bin/
 *.output
 *.tab.h
 *.tab.o
-lexrun.txt
 *.yy.o
